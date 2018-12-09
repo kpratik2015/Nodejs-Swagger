@@ -25,3 +25,13 @@ Create a MOCK datastore
 ```
 swagger project start -m
 ```
+
+Try in browser:
+
+```
+http://localhost:10010/
+http://localhost:10010/todo/1
+```
+
+Then make JS files as per swagger router name under mocks folder and re-visit the first URL
+
