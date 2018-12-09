@@ -20,3 +20,8 @@ Now we use swagger editor. This opens on browser swagger editor.
 swagger project edit
 ```
 
+Create a MOCK datastore
+
+```
+swagger project start -m
+```
