@@ -35,3 +35,18 @@ http://localhost:10010/todo/1
 
 Then make JS files as per swagger router name under mocks folder and re-visit the first URL
 
+For linting:
+
+```
+npm install -g eslint
+```
+
+For search client [elasticsearch]:
+
+```
+npm i elasticsearch --save
+```
+
+Also have elasticsearch installed and running as per steps {Elastic Search}[https://www.elastic.co/downloads/elasticsearch]
+
+/api/helpers/es.js is for boiler plate code for working with elasticsearch
