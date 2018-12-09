@@ -50,3 +50,10 @@ npm i elasticsearch --save
 Also have elasticsearch installed and running as per steps {Elastic Search}[https://www.elastic.co/downloads/elasticsearch]
 
 /api/helpers/es.js is for boiler plate code for working with elasticsearch
+
+For Cors error:
+
+```
+npm i cors --save
+```
+
